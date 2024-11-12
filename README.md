@@ -1,1 +1,1 @@
-# letschat
+# DockerConfiguration
